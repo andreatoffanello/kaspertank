@@ -1,0 +1,358 @@
+/*
+Theme Name: Aprimo
+Theme URI: http://wordpress.creativegigs.net/faster/
+Author: CreativeGigs
+Author URI: https://themeforest.net/user/CreativeGigs/portfolio
+Description: Aprimo is a creative, professional, modern crafted WordPress theme which can be used for the mobile app, application and any kind of related app landing page.
+Version: 1.5
+License: GNU General Public License v2 or later
+License URI: LICENSE
+Text Domain: aprimo
+*/
+
+.admin-bar .theme-menu-wrapper.fixed.menu-style-two {
+    margin-top: 32px;
+}
+
+.menu-style-two.menu-style-three .top-header p {
+    color: #fff;
+}
+
+.our-blog .single-blog .image img {
+    display: block;
+    margin: 0 auto;
+    width: auto;
+    height: auto;
+}
+
+.sticky .text-meta {
+    padding: 30px !important;
+}
+
+.widgets select {
+    width: 100%;
+    padding: 5px;
+}
+
+.sidebar_widgets h3 {
+    font-weight: 600;
+    margin-bottom: 38px;
+}
+
+.our-blog .load-more {
+    clear: both;
+}
+
+.no-posts-found {
+    width: 260px !important;
+}
+
+.comment-section ul.children {
+    padding-left: 30px;
+}
+
+.comment_form_margin {
+    margin: 100px 0 20px 0;
+}
+
+.blog-details .comment-area .leave-comment form input {
+    font-size: 18px;
+}
+
+/***** Posts Navigation Style ******/
+nav.navigation.pagination {
+    margin: auto;
+    width: 100%;
+    text-align: center;
+}
+
+.pagination {
+    display: inline-block;
+    padding-left: 0;
+    margin: 20px 0;
+    border-radius: 4px;
+}
+
+.pagination .nav-links a, .pagination .nav-links span.current {
+    font-size: 20px;
+    font-weight: 500;
+    color: #c9c9c9;
+    margin: 0 10px;
+    text-transform: uppercase;
+    letter-spacing: 1.2px;
+}
+
+.pagination .nav-links span.current, .pagination .nav-links a.next, .pagination .nav-links a.prev {
+    color: #13192d;
+}
+
+.shop_widget {
+    margin: 60px 0 80px 0;
+}
+
+.shop_widget:first-child {
+    margin: 0;
+}
+
+.blog-main-post img {
+    height: auto;
+}
+
+.blog-details .tag-option {
+    clear: both;
+}
+
+h2.quote:before {
+    content: '';
+    width: 55px;
+    height: 2px;
+    background: #000;
+    position: absolute;
+    top: 25px;
+    left: 0;
+}
+
+h2.quote {
+    font-size: 32px;
+    line-height: 50px;
+    font-weight: normal;
+    padding: 0 85px;
+    margin: 80px 0 80px 0 !important;
+    position: relative;
+}
+
+.page .blog-details .wrapper {
+    margin-bottom: 100px;
+}
+
+.error404 .theme-button {
+    background: linear-gradient( 41deg, rgb(26,192,237) 0%, rgb(43,236,220) 100%);
+    height: 60px;
+    border-radius: 30px;
+    width: 270px;
+    text-align: center;
+    line-height: 56px;
+    margin-top: 40px;
+}
+
+.error404 .theme-button a {
+    width: 100%;
+    height: 100%;
+    border-radius: 30px;
+    color: #fff;
+    font-weight: 600;
+    font-size: 15px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    border: none;
+    position: relative;
+    z-index: 1;
+    background: transparent;
+}
+
+.search header.page-header {
+    margin-top: -40px;
+}
+
+.text ul, .tab-content ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.page.home .blog-details .wrapper {
+    margin-bottom: 0;
+}
+
+.page .blog-details .wrapper {
+    width: 100%;
+}
+
+.hentry {
+    margin-bottom: 50px;
+}
+
+.tag-option ul.float-left {
+    padding-left: 0;
+}
+
+.single .google-map-area {
+    margin-top: 0;
+}
+
+.logo h3, .logo h3 {
+    color: #ffffff;
+}
+
+
+/** Widget Styles **/
+.sidebar-box {
+    margin-bottom: 65px;
+}
+
+.sidebar-box h4 {
+    margin-bottom: 40px;
+    font-size: 24px;
+}
+
+.sidebar-box a:hover {
+    color: #0aebb3 !important;
+}
+
+form.search-form {
+    height: 60px;
+    position: relative;
+}
+
+form.search-form input {
+    font-family: 'Poppins', sans-serif;
+    width: 100%;
+    height: 100%;
+    border: 1px solid #e6e6e6;
+    padding: 0 50px 0 15px;
+    font-size: 16px;
+}
+
+form.search-form button {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    width: 48px;
+    background: transparent;
+    cursor: pointer;
+    font-size: 16px;
+    color: rgba(0,0,0,0.4);
+}
+
+.our-blog .single-blog .text h5 a {
+    margin: 5px 0 5px 0;
+}
+
+.sidebar-box.widget_recent_comments h3 {
+    margin-bottom: 30px;
+}
+
+.blog-main-post img.featured-image {
+    margin-bottom: 50px;
+}
+
+
+.col-md-4.sidebar.shop-sidebar {
+    padding-left: 35px;
+}
+
+.logo h3 {
+    margin-top: 0;
+}
+
+div#blog-list {
+    padding-right: 32px;
+}
+
+.post-meta>div {
+    display: inline-block;
+}
+
+.blog-details .col-md-8.col-xs-12 {
+    padding-right: 32px;
+}
+
+ul#menu-footer-menu {
+    padding: 0;
+}
+
+.our-blog .single-blog-post .image-box img {
+    height: auto;
+}
+
+.no-comments .leave-comment>h2 {
+    margin-top: 0 !important;
+}
+
+.sidebar-box h3 {
+    margin-top: 0;
+}
+
+.footer-logo .logo h3 {
+    color: #353535;
+}
+
+.theme-main-header .button-group li a {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.widget_rss ul li span {
+    margin-bottom: 10px;
+    display: block;
+}
+
+.widget_rss ul li {
+    margin-bottom: 25px;
+}
+
+.widget_rss ul li:last-child {
+    margin-bottom: 0;
+}
+
+.si-wrapper-top.si-has-border {
+    width: 300px;
+}
+
+.blog-details .comment-area {
+    background:transparent;
+    padding: 0 0 80px 0;
+}
+
+.blog-details .comment-area .leave-comment form input,
+.blog-details .comment-area .leave-comment form textarea {
+    border: 1px solid rgba(0,0,0,0.05);
+}
+
+.comment-area.have-comments nav.navigation.comment-navigation {
+    padding-bottom: 50px;
+}
+
+.blog-details .comment-area .no-comment-avatar .comment.float-left {
+    padding-left: 0;
+}
+
+.error404 header.theme-main-header {
+    position: static;
+    padding-top: 25px;
+}
+
+.error404 .theme-main-header .button-group li a {
+    color: #494949;
+}
+
+.error404 .wrapper {
+    text-align: center;
+    margin-top: 100px;
+}
+
+.error404 .theme-button {
+    display: block;
+    margin: 20px auto;
+}
+
+.error404 .logo h3 {
+    color: #494949;
+}
+.theme-button,.pricing-plan-section .nav-tabs > li > a,.our-blog .single-blog-post .post-author a,.post-meta .post-date a {
+    font-weight:500;
+}
+.our-blog .single-blog-post .post-author a,.post-meta .post-date a {
+    font-size:16px;
+}
+.our-blog .single-blog-post .text-meta .read-more {
+    font-size:15px;
+}
+.blog-details .tag-option ul li {
+    vertical-align:middle;
+}
+
+#theme-main-banner .camera_caption {
+    height: 100vh;
+}
