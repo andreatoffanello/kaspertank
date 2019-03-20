@@ -1,0 +1,801 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2018-03-24 00:50+0600\n"
+"PO-Revision-Date: 2017-12-17 23:58+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: esc_html__;esc_html_e;esc_attr__;esc_attr_e;_x;_n\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: assets\n"
+
+#: 404.php:14
+msgid "404 ERROR"
+msgstr ""
+
+#: 404.php:15
+msgid "The page you were looking for does not exist."
+msgstr ""
+
+#: 404.php:18
+msgid "Go back our HomePage"
+msgstr ""
+
+#: comments.php:29
+msgid "1 Comment"
+msgstr ""
+
+#: comments.php:29
+msgid "% Comments"
+msgstr ""
+
+#: comments.php:45
+msgid "Leave a Comment"
+msgstr ""
+
+#: comments.php:48
+msgid "sing in to post your comment or sign-up if you don't have any account."
+msgstr ""
+
+#: comments.php:55
+msgid "Name *"
+msgstr ""
+
+#: comments.php:56
+msgid "Email *"
+msgstr ""
+
+#: comments.php:61
+msgid "Post Comment"
+msgstr ""
+
+#: comments.php:64
+msgid "Your Comment*"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:8
+msgid "Theme Settings"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:14
+msgid "Aprimo Theme Settings"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:14
+msgid "by CreativeGigs"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:52
+msgid "Backup"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:58
+msgid "You can save your current options. Download a Backup and Import."
+msgstr ""
+
+#: cs-framework-override/config/opt/metabox_page.php:4
+msgid "Page title bar"
+msgstr ""
+
+#: cs-framework-override/config/opt/metabox_page.php:16
+msgid "Title Bar"
+msgstr ""
+
+#: cs-framework-override/config/opt/metabox_portfolio.php:4
+msgid "Portfolio Meta fields"
+msgstr ""
+
+#: cs-framework-override/config/opt/metabox_portfolio.php:11
+#: cs-framework-override/config/opt/metabox_product.php:12
+msgid "Title-bar Settings"
+msgstr ""
+
+#: cs-framework-override/config/opt/metabox_portfolio.php:17
+#: cs-framework-override/config/opt/metabox_product.php:24
+msgid "Title-bar title"
+msgstr ""
+
+#: cs-framework-override/config/opt/metabox_portfolio.php:22
+#: cs-framework-override/config/opt/metabox_product.php:31
+msgid "Title-bar background"
+msgstr ""
+
+#: cs-framework-override/config/opt/metabox_portfolio.php:28
+msgid "Portfolio Settings"
+msgstr ""
+
+#: cs-framework-override/config/opt/metabox_portfolio.php:34
+msgid "Portfolio attributes"
+msgstr ""
+
+#: cs-framework-override/config/opt/metabox_portfolio.php:35
+msgid "Add Attribute"
+msgstr ""
+
+#: cs-framework-override/config/opt/metabox_portfolio.php:41
+msgid "Attribute Name"
+msgstr ""
+
+#: cs-framework-override/config/opt/metabox_portfolio.php:47
+msgid "Attribute value"
+msgstr ""
+
+#: cs-framework-override/config/opt/metabox_product.php:5
+msgid "Product Meta fields"
+msgstr ""
+
+#: cs-framework-override/config/opt/metabox_product.php:18
+msgid "Show/Hide Page Title Bar"
+msgstr ""
+
+#: cs-framework-override/config/opt/metabox_product.php:25
+msgid "Product details"
+msgstr ""
+
+#: cs-framework-override/config/opt/opt_blog.php:5
+msgid "Blog Page Settings"
+msgstr ""
+
+#: cs-framework-override/config/opt/opt_blog.php:9
+msgid "Blog title"
+msgstr ""
+
+#: cs-framework-override/config/opt/opt_blog.php:15
+msgid "Header Background"
+msgstr ""
+
+#: cs-framework-override/config/opt/opt_blog.php:18
+msgid "Upload here a high resolution image file for blog header area."
+msgstr ""
+
+#: cs-framework-override/config/opt/opt_colors.php:4
+msgid "Color options"
+msgstr ""
+
+#: cs-framework-override/config/opt/opt_colors.php:8
+msgid "Accent color scheme"
+msgstr ""
+
+#: cs-framework-override/config/opt/opt_colors.php:9
+msgid "Change the website main color."
+msgstr ""
+
+#: cs-framework-override/config/opt/opt_footer.php:4
+#: cs-framework-override/config/opt/opt_footer.php:111
+msgid "Footer settings"
+msgstr ""
+
+#: cs-framework-override/config/opt/opt_footer.php:8
+msgid "Google Map"
+msgstr ""
+
+#: cs-framework-override/config/opt/opt_footer.php:12
+msgid "ON/OFF Map?"
+msgstr ""
+
+#: cs-framework-override/config/opt/opt_footer.php:19
+msgid "Google map api KEY"
+msgstr ""
+
+#: cs-framework-override/config/opt/opt_footer.php:27
+msgid "Map Address"
+msgstr ""
+
+#: cs-framework-override/config/opt/opt_footer.php:35
+msgid "Address icon"
+msgstr ""
+
+#: cs-framework-override/config/opt/opt_footer.php:36
+msgid ""
+"The Aprimo logo is used here as default. You can change it here with your "
+"icon."
+msgstr ""
+
+#: cs-framework-override/config/opt/opt_footer.php:43
+msgid "Latitude"
+msgstr ""
+
+#: cs-framework-override/config/opt/opt_footer.php:51
+msgid "Longitude"
+msgstr ""
+
+#: cs-framework-override/config/opt/opt_footer.php:59
+msgid "Map Zoom Label"
+msgstr ""
+
+#: cs-framework-override/config/opt/opt_footer.php:68
+#: cs-framework-override/config/opt/opt_footer.php:72
+msgid "Subscribe form"
+msgstr ""
+
+#: cs-framework-override/config/opt/opt_footer.php:75
+msgid "ON/OFF form"
+msgstr ""
+
+#: cs-framework-override/config/opt/opt_footer.php:82
+msgid "Form title"
+msgstr ""
+
+#: cs-framework-override/config/opt/opt_footer.php:92
+msgid "Form action URL"
+msgstr ""
+
+#: cs-framework-override/config/opt/opt_footer.php:102
+msgid "Form submit button label"
+msgstr ""
+
+#: cs-framework-override/config/opt/opt_footer.php:114
+msgid "Footer background color"
+msgstr ""
+
+#: cs-framework-override/config/opt/opt_footer.php:122
+msgid "Copyright text: "
+msgstr ""
+
+#: cs-framework-override/config/opt/opt_footer.php:123
+msgid "HTML allowed"
+msgstr ""
+
+#: cs-framework-override/config/opt/opt_general.php:8
+msgid "General Settings"
+msgstr ""
+
+#: cs-framework-override/config/opt/opt_general.php:14
+msgid "Pre-loader ON/OFF"
+msgstr ""
+
+#: cs-framework-override/config/opt/opt_header.php:5
+msgid "Header Settings"
+msgstr ""
+
+#: cs-framework-override/config/opt/opt_header.php:10
+msgid "Header navigation bar settings"
+msgstr ""
+
+#: cs-framework-override/config/opt/opt_header.php:13
+msgid "Logo Upload"
+msgstr ""
+
+#: cs-framework-override/config/opt/opt_header.php:16
+msgid "Upload here a image file for your logo"
+msgstr ""
+
+#: cs-framework-override/config/opt/opt_header.php:22
+msgid "Title bar padding"
+msgstr ""
+
+#: cs-framework-override/config/opt/opt_header.php:23
+msgid "Input the padding as clock wise (Top Right Bottom Left)."
+msgstr ""
+
+#: cs-framework-override/config/opt/opt_header.php:29
+msgid "Title bar overlay color"
+msgstr ""
+
+#: cs-framework-override/config/opt/opt_header.php:35
+msgid "Page margin top"
+msgstr ""
+
+#: cs-framework-override/config/opt/opt_header.php:36
+msgid "Page margin top will appear after the page title bar."
+msgstr ""
+
+#: cs-framework-override/config/opt/opt_social_links.php:4
+msgid "Social Links"
+msgstr ""
+
+#: cs-framework-override/config/opt/opt_social_links.php:20
+msgid "Twitter"
+msgstr ""
+
+#: cs-framework-override/config/opt/opt_social_links.php:29
+msgid "Google Plus"
+msgstr ""
+
+#: cs-framework-override/config/opt/opt_social_links.php:38
+msgid "Linked In"
+msgstr ""
+
+#: cs-framework-override/config/opt/opt_social_links.php:47
+msgid "Dribbble"
+msgstr ""
+
+#: cs-framework-override/config/opt/opt_social_links.php:56
+msgid "Youtube"
+msgstr ""
+
+#: cs-framework-override/config/opt/opt_social_links.php:64
+msgid "Add more"
+msgstr ""
+
+#: cs-framework-override/config/opt/opt_social_links.php:65
+msgid "Add new"
+msgstr ""
+
+#: cs-framework-override/config/opt/opt_social_links.php:66
+msgid "Adding New Social Link"
+msgstr ""
+
+#: cs-framework-override/config/opt/opt_social_links.php:71
+msgid "Icon"
+msgstr ""
+
+#: cs-framework-override/config/opt/opt_social_links.php:76
+msgid "Link"
+msgstr ""
+
+#: cs-framework-override/config/opt/opt_typo.php:5
+msgid "Typography options"
+msgstr ""
+
+#: cs-framework-override/config/opt/opt_typo.php:11
+msgid "Body font properties"
+msgstr ""
+
+#: cs-framework-override/config/opt/opt_typo.php:26
+msgid "Website Main Font"
+msgstr ""
+
+#: footer.php:17
+msgid "© 2018 CreativeGigs. All rights reserved"
+msgstr ""
+
+#: footer.php:48
+msgid "Full Name*"
+msgstr ""
+
+#: footer.php:51
+msgid "Email Address*"
+msgstr ""
+
+#: functions.php:50
+msgid "Main menu"
+msgstr ""
+
+#: functions.php:51
+msgid "Footer menu"
+msgstr ""
+
+#: header.php:95
+msgid "Blog"
+msgstr ""
+
+#: header.php:99
+msgid "Search result for : "
+msgstr ""
+
+#: inc/aprimo_functions.php:22
+msgid "Previous"
+msgstr ""
+
+#: inc/aprimo_functions.php:23
+msgid "Next"
+msgstr ""
+
+#: inc/aprimo_functions.php:42 template-parts/content-default.php:31
+#: template-parts/single.php:25
+msgid "At"
+msgstr ""
+
+#: inc/aprimo_functions.php:44
+msgid "Reply"
+msgstr ""
+
+#: inc/navwalker.php:214
+msgid "Add a menu"
+msgstr ""
+
+#: inc/plugin_activation.php:39
+msgid "Aprimo core"
+msgstr ""
+
+#: inc/plugin_activation.php:49
+msgid "CodeStar Framework"
+msgstr ""
+
+#: inc/plugin_activation.php:59
+msgid "Visual Composer"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:302
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:303
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:305
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:307
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:308
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:360
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:361
+#: inc/tgm/class-tgm-plugin-activation.php:886
+#: inc/tgm/class-tgm-plugin-activation.php:2592
+#: inc/tgm/class-tgm-plugin-activation.php:3639
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:362
+#: inc/tgm/class-tgm-plugin-activation.php:3218
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:363
+#: inc/tgm/class-tgm-plugin-activation.php:3011
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:365
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:367
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:369
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:370
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:371
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:372
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:575
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:576
+msgid "Update Required"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:693
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:993
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:993
+#: inc/tgm/class-tgm-plugin-activation.php:996
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:996
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2041
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2332
+msgid "Required"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2335
+msgid "Recommended"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2351
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2354
+msgid "External Source"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2357
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2374
+msgid "Not Installed"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2378
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2380
+msgid "Active"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2386
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2389
+msgid "Requires Update"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2392
+msgid "Update recommended"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2401
+#, php-format
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2451
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2455
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2459
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2541
+msgid "unknown"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2549
+msgid "Installed version:"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2557
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2569
+msgid "Available version:"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2592
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2606
+msgid "Plugin"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2607
+msgid "Source"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2608
+msgid "Type"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2612
+msgid "Version"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2613
+msgid "Status"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2662
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2667
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2673
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2743
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2776
+msgid "Install"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2782
+msgid "Update"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2785
+msgid "Activate"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2816
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2818
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2859
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2861
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2967
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2993
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3217
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3557
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3560
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3562
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3566
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3568
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3568
+#: inc/tgm/class-tgm-plugin-activation.php:3576
+msgid "Show Details"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3568
+#: inc/tgm/class-tgm-plugin-activation.php:3576
+msgid "Hide Details"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3569
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3571
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3574
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3576
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3577
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3579
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: page.php:26 template-parts/content-page.php:22 template-parts/single.php:32
+msgid "Pages:"
+msgstr ""
+
+#: page.php:30 template-parts/single.php:36
+msgid "Page"
+msgstr ""
+
+#: searchform.php:4
+msgid "Search.."
+msgstr ""
+
+#: template-parts/content-default.php:15
+msgid "Featured"
+msgstr ""
+
+#: template-parts/content-default.php:27 template-parts/single.php:21
+msgid "Posted by"
+msgstr ""
+
+#: template-parts/content-default.php:36
+msgid "read more"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:25
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:31
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:34
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: template-parts/single.php:42
+msgid "Tags:"
+msgstr ""
+
+#: widgets/widgets.php:6
+msgid "Sidebar widgets"
+msgstr ""
+
+#: widgets/widgets.php:7
+msgid "Place widgets in sidebar widgets area."
+msgstr ""

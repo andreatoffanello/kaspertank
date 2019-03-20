@@ -1,0 +1,13 @@
+/*
+Theme Name: Ciacci
+Theme URI: https://andreatoffanello.com
+Description: Visual Composer Starter child theme
+Author: Andrea Toffanello
+Author URI: https://andreatoffanello.com
+Template: visual-composer-starter
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+*/
+
+@import url("/danieleciacci/wp-content/themes/visual-composer-starter-theme-child/css/style.css");

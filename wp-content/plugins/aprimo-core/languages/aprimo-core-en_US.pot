@@ -1,0 +1,537 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Faster core plugin\n"
+"POT-Creation-Date: 2018-01-29 11:31+0600\n"
+"PO-Revision-Date: 2018-01-29 11:32+0600\n"
+"Last-Translator: \n"
+"Language-Team: CreativeGigs\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;esc_html__;_e;esc_html_e;esc_attr_e;esc_attr__;_x;"
+"_n\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: inc/cp.php:10
+msgid "Portfolio"
+msgstr ""
+
+#: inc/cp.php:11
+msgid "Add Portfolio Item"
+msgstr ""
+
+#: inc/cp.php:12
+msgid "Add Item"
+msgstr ""
+
+#: inc/cp.php:31
+msgid "Portfolio Categories"
+msgstr ""
+
+#: inc/extra.php:6
+msgid "Share:"
+msgstr ""
+
+#: inc/vc_config.php:7
+msgid "FlatIcon"
+msgstr ""
+
+#: shortcodes/app_highlight.php:66
+msgid "App highlight"
+msgstr ""
+
+#: shortcodes/app_highlight.php:67
+msgid "Highlight your app features with screenshot."
+msgstr ""
+
+#: shortcodes/app_highlight.php:69 shortcodes/contact.php:71
+#: shortcodes/hero_section.php:152 shortcodes/pricing.php:84
+#: shortcodes/screenshot_carousel.php:48 shortcodes/service_section.php:56
+#: shortcodes/single_feature.php:38 shortcodes/testimonial.php:75
+#: shortcodes/title.php:40
+msgid "Faster"
+msgstr ""
+
+#: shortcodes/app_highlight.php:75 shortcodes/contact.php:77
+#: shortcodes/pricing.php:89 shortcodes/screenshot_carousel.php:54
+#: shortcodes/service_section.php:85 shortcodes/single_feature.php:44
+#: shortcodes/testimonial.php:80 shortcodes/title.php:46
+msgid "Title"
+msgstr ""
+
+#: shortcodes/app_highlight.php:82 shortcodes/service_section.php:92
+#: shortcodes/single_feature.php:51 shortcodes/title.php:53
+msgid "Subtitle"
+msgstr ""
+
+#: shortcodes/app_highlight.php:87
+msgid "App screenshot"
+msgstr ""
+
+#: shortcodes/app_highlight.php:88
+msgid ""
+"Attach here your App screenshot and it will show on the left side of the "
+"section."
+msgstr ""
+
+#: shortcodes/app_highlight.php:93
+msgid "App screenshot background"
+msgstr ""
+
+#: shortcodes/app_highlight.php:98
+msgid "Features list"
+msgstr ""
+
+#: shortcodes/app_highlight.php:103
+msgid "Feature list icon"
+msgstr ""
+
+#: shortcodes/app_highlight.php:114
+msgid "Feature name"
+msgstr ""
+
+#: shortcodes/app_highlight.php:121
+msgid "Vertical position from"
+msgstr ""
+
+#: shortcodes/app_highlight.php:130
+msgid "Top position"
+msgstr ""
+
+#: shortcodes/app_highlight.php:131
+msgid "How far space will move from the top position of the image."
+msgstr ""
+
+#: shortcodes/app_highlight.php:141
+msgid "Bottom position"
+msgstr ""
+
+#: shortcodes/app_highlight.php:142
+msgid "How far space will move from the bottom position of the image."
+msgstr ""
+
+#: shortcodes/app_highlight.php:152
+msgid "Horizontal position from"
+msgstr ""
+
+#: shortcodes/app_highlight.php:161
+msgid "Left position"
+msgstr ""
+
+#: shortcodes/app_highlight.php:162
+msgid "How far space will move from the left position of the image."
+msgstr ""
+
+#: shortcodes/app_highlight.php:172
+msgid "Right position"
+msgstr ""
+
+#: shortcodes/app_highlight.php:173
+msgid "How far space will move from the right position of the image."
+msgstr ""
+
+#: shortcodes/button.php:30
+msgid "Gullu Button"
+msgstr ""
+
+#: shortcodes/button.php:31
+msgid "Create Gullu Style Button."
+msgstr ""
+
+#: shortcodes/button.php:33
+msgid "Gullu"
+msgstr ""
+
+#: shortcodes/button.php:38 shortcodes/hero_section.php:340
+#: shortcodes/pricing.php:146 shortcodes/service_section.php:98
+msgid "Button"
+msgstr ""
+
+#: shortcodes/button.php:43
+msgid "Button background Color"
+msgstr ""
+
+#: shortcodes/button.php:49
+msgid "Button font Color"
+msgstr ""
+
+#: shortcodes/button.php:55
+msgid "Button width"
+msgstr ""
+
+#: shortcodes/button.php:61
+msgid "Button text align"
+msgstr ""
+
+#: shortcodes/contact.php:27
+msgid "Email Address*"
+msgstr ""
+
+#: shortcodes/contact.php:28
+msgid "Subject*"
+msgstr ""
+
+#: shortcodes/contact.php:29
+msgid "Your Message*"
+msgstr ""
+
+#: shortcodes/contact.php:47
+msgid "Email: "
+msgstr ""
+
+#: shortcodes/contact.php:48
+msgid "Subject: "
+msgstr ""
+
+#: shortcodes/contact.php:49
+msgid "Message: "
+msgstr ""
+
+#: shortcodes/contact.php:53
+msgid "Your message has sent successfully"
+msgstr ""
+
+#: shortcodes/contact.php:55
+msgid "An error occurred. Please fill the form again and submit."
+msgstr ""
+
+#: shortcodes/contact.php:68
+msgid "Contact section"
+msgstr ""
+
+#: shortcodes/contact.php:69
+msgid "Place the contact form."
+msgstr ""
+
+#: shortcodes/contact.php:84
+msgid "Don’t Hesitate to contact with us for any kind of information"
+msgstr ""
+
+#: shortcodes/contact.php:90
+msgid "Submit button label"
+msgstr ""
+
+#: shortcodes/contact.php:95
+msgid "Email to"
+msgstr ""
+
+#: shortcodes/contact.php:96
+msgid "Enter the mail receiver email address"
+msgstr ""
+
+#: shortcodes/contact.php:101
+msgid "Content"
+msgstr ""
+
+#: shortcodes/contact.php:102
+msgid "HTML supported"
+msgstr ""
+
+#: shortcodes/hero_section.php:149
+msgid "Hero Section"
+msgstr ""
+
+#: shortcodes/hero_section.php:150
+msgid "Create Hero Section"
+msgstr ""
+
+#: shortcodes/hero_section.php:158
+msgid "Background type"
+msgstr ""
+
+#: shortcodes/hero_section.php:170
+msgid "Background Image"
+msgstr ""
+
+#: shortcodes/hero_section.php:180 shortcodes/single_feature.php:76
+msgid "Gradient color 01"
+msgstr ""
+
+#: shortcodes/hero_section.php:191 shortcodes/single_feature.php:87
+msgid "Gradient color 02"
+msgstr ""
+
+#: shortcodes/hero_section.php:202
+msgid "Gradient color angle"
+msgstr ""
+
+#: shortcodes/hero_section.php:203
+msgid "Input it in degree (deg)"
+msgstr ""
+
+#: shortcodes/hero_section.php:214 shortcodes/single_feature.php:66
+msgid "Background color"
+msgstr ""
+
+#: shortcodes/hero_section.php:224
+msgid "Use particles in background."
+msgstr ""
+
+#: shortcodes/hero_section.php:230
+msgid "Select a particle style"
+msgstr ""
+
+#: shortcodes/hero_section.php:247 shortcodes/service_section.php:62
+msgid "Top Title"
+msgstr ""
+
+#: shortcodes/hero_section.php:248 shortcodes/service_section.php:63
+msgid "Top Title is the small title."
+msgstr ""
+
+#: shortcodes/hero_section.php:256 shortcodes/service_section.php:70
+msgid "Main title"
+msgstr ""
+
+#: shortcodes/hero_section.php:263 shortcodes/title.php:58
+msgid "Description text"
+msgstr ""
+
+#: shortcodes/hero_section.php:269
+msgid "Top title color"
+msgstr ""
+
+#: shortcodes/hero_section.php:276
+msgid "Main title color"
+msgstr ""
+
+#: shortcodes/hero_section.php:283
+msgid "Description text color"
+msgstr ""
+
+#: shortcodes/hero_section.php:291
+msgid "Upload Featured Image"
+msgstr ""
+
+#: shortcodes/hero_section.php:298
+msgid "Position from top"
+msgstr ""
+
+#: shortcodes/hero_section.php:299
+msgid "Leave this field empty or \"auto\" if you use the Position from bottom"
+msgstr ""
+
+#: shortcodes/hero_section.php:306
+msgid "Position from right"
+msgstr ""
+
+#: shortcodes/hero_section.php:307
+msgid "Leave this field empty or \"auto\" if you use the Position from left"
+msgstr ""
+
+#: shortcodes/hero_section.php:313
+msgid "Position from bottom"
+msgstr ""
+
+#: shortcodes/hero_section.php:314
+msgid "Leave this field empty or \"auto\" if you use the Position from top"
+msgstr ""
+
+#: shortcodes/hero_section.php:320
+msgid "Position from left"
+msgstr ""
+
+#: shortcodes/hero_section.php:321
+msgid "Leave this field empty or \"auto\" if you use the Position from right"
+msgstr ""
+
+#: shortcodes/hero_section.php:327
+msgid "Featured image width"
+msgstr ""
+
+#: shortcodes/hero_section.php:328
+msgid "You can set the width of the featured image in pixel or percent (%)"
+msgstr ""
+
+#: shortcodes/hero_section.php:334
+msgid "Create Buttons"
+msgstr ""
+
+#: shortcodes/hero_section.php:345
+msgid "Button background color"
+msgstr ""
+
+#: shortcodes/hero_section.php:351
+msgid "Button text color"
+msgstr ""
+
+#: shortcodes/hero_section.php:357
+msgid "Button border color"
+msgstr ""
+
+#: shortcodes/hero_section.php:363
+msgid "Button hover color"
+msgstr ""
+
+#: shortcodes/hero_section.php:369
+msgid "Button icon type"
+msgstr ""
+
+#: shortcodes/hero_section.php:379
+msgid "Button icon"
+msgstr ""
+
+#: shortcodes/hero_section.php:394
+msgid "Button icon image"
+msgstr ""
+
+#: shortcodes/pricing.php:81
+msgid "Pricing Tabs"
+msgstr ""
+
+#: shortcodes/pricing.php:82
+msgid "Create & display pricing. Full width Section"
+msgstr ""
+
+#: shortcodes/pricing.php:95 shortcodes/testimonial.php:86
+msgid "Small title"
+msgstr ""
+
+#: shortcodes/pricing.php:102
+msgid "Description"
+msgstr ""
+
+#: shortcodes/pricing.php:109
+msgid "Tab items"
+msgstr ""
+
+#: shortcodes/pricing.php:114 shortcodes/pricing.php:128
+msgid "Tab Name"
+msgstr ""
+
+#: shortcodes/pricing.php:123
+msgid "Tab Contents"
+msgstr ""
+
+#: shortcodes/pricing.php:134
+msgid "Tab Title"
+msgstr ""
+
+#: shortcodes/pricing.php:140
+msgid "Plan price"
+msgstr ""
+
+#: shortcodes/pricing.php:151
+msgid "Tab Content"
+msgstr ""
+
+#: shortcodes/pricing.php:152
+msgid "Put some contents about the plan. (HTML Supported)."
+msgstr ""
+
+#: shortcodes/screenshot_carousel.php:45
+msgid "App Screenshots"
+msgstr ""
+
+#: shortcodes/screenshot_carousel.php:46
+msgid "Display your app screenshots with mobile mockup"
+msgstr ""
+
+#: shortcodes/screenshot_carousel.php:60
+msgid "Mobile mockup image"
+msgstr ""
+
+#: shortcodes/screenshot_carousel.php:61
+msgid "Leave it blank to use the default mockup."
+msgstr ""
+
+#: shortcodes/screenshot_carousel.php:66
+msgid "Screenshots"
+msgstr ""
+
+#: shortcodes/service_section.php:53
+msgid "Service Section"
+msgstr ""
+
+#: shortcodes/service_section.php:54
+msgid "Create service section with service list"
+msgstr ""
+
+#: shortcodes/service_section.php:75
+msgid "Service items"
+msgstr ""
+
+#: shortcodes/service_section.php:80
+msgid "Service icon image"
+msgstr ""
+
+#: shortcodes/single_feature.php:35
+msgid "Feature item"
+msgstr ""
+
+#: shortcodes/single_feature.php:36
+msgid "Display your app feature with interactive mode."
+msgstr ""
+
+#: shortcodes/single_feature.php:60
+msgid "Background color type"
+msgstr ""
+
+#: shortcodes/single_feature.php:77
+msgid "Color 01 will be mixed up with color 02"
+msgstr ""
+
+#: shortcodes/single_feature.php:88
+msgid "Color 02 will be mixed up with color 01"
+msgstr ""
+
+#: shortcodes/single_feature.php:97
+msgid "Feature item icon"
+msgstr ""
+
+#: shortcodes/testimonial.php:72
+msgid "Testimonial"
+msgstr ""
+
+#: shortcodes/testimonial.php:73
+msgid "Full width testimonial section with video."
+msgstr ""
+
+#: shortcodes/testimonial.php:93
+msgid "Video Title"
+msgstr ""
+
+#: shortcodes/testimonial.php:99
+msgid "Video Subtitle"
+msgstr ""
+
+#: shortcodes/testimonial.php:105
+msgid "Video URL"
+msgstr ""
+
+#: shortcodes/testimonial.php:111
+msgid "Video section background image"
+msgstr ""
+
+#: shortcodes/testimonial.php:116
+msgid "Testimonials"
+msgstr ""
+
+#: shortcodes/testimonial.php:121
+msgid "Quote Text"
+msgstr ""
+
+#: shortcodes/testimonial.php:126
+msgid "Quote Author image"
+msgstr ""
+
+#: shortcodes/testimonial.php:131
+msgid "Author Name"
+msgstr ""
+
+#: shortcodes/testimonial.php:136
+msgid "Author Designation"
+msgstr ""
+
+#: shortcodes/title.php:37
+msgid "Faster Title"
+msgstr ""
+
+#: shortcodes/title.php:38
+msgid "Create title with subtitle and description text."
+msgstr ""
