@@ -179,8 +179,202 @@ footer {
 	position: relative;
 	@include gradient;
 
+	padding-top: 32px;
+	padding-bottom: 32px;
+
+
 	.bottom-footer .footer-logo p,
 	.bottom-footer ul.social-icon li a {
 		color: #ffffff;	
 	}
+
+	.bottom-footer [class*="col-"] {
+	    margin-bottom: 16px;
+	}
 }
+ 
+
+.home_head {
+
+	a {
+		position: relative;
+
+		&:after {
+			content:"";
+			position: absolute;
+			width: 0%;
+			height: 3px;
+			background: $text;
+			transition: .3s ease-in-out;
+			left: 0px;
+			bottom: 0px;
+		}
+
+		&:hover {
+			color: $text;
+
+			&:after {
+				width: 100%;
+				transition: .3s ease-in-out;
+			}
+		}
+	}
+	
+	p {
+		font-size: 20px;
+	}
+}
+
+
+#goto {
+	transition-timing-function: ease-in-out;
+}
+
+
+@keyframes wave {
+	0% {
+		transform: translateY(0px);
+	}
+
+	50% {
+		transform: translateY(20px);
+	}
+
+	100% {
+		transform: translateY(0px);
+	}
+}
+
+.wave {
+	animation: 1s wave infinite;
+	transition-timing-function: ease-in-out;
+}
+
+.form-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: auto;
+    grid-gap: 32px;
+
+    @media only screen and (max-width: 768px){
+    	grid-template-columns: 1fr;
+    	grid-template-rows: auto auto;
+    }
+}
+
+input.wpcf7-form-control.wpcf7-text.wpcf7-validates-as-required,
+textarea.wpcf7-form-control.wpcf7-textarea.wpcf7-validates-as-required {
+    border-radius: 20px;
+    margin-bottom: 32px;
+    width: 100%;
+    padding: 8px 16px;
+    border: none;
+    background: #f5f5f5;
+}
+
+input.wpcf7-form-control.wpcf7-text.wpcf7-validates-as-required {
+	height: 40px;
+}
+
+textarea.wpcf7-form-control.wpcf7-textarea.wpcf7-validates-as-required {
+	height: 184px;
+}
+
+input.wpcf7-form-control.wpcf7-submit {
+    height: 40px;
+    padding: 8px 32px;
+    margin: 0 auto;
+    display: block;
+    border-radius: 25px;
+    border: none;
+    outline: none;
+    opacity: 1;
+    font-weight: 600;
+    text-transform: uppercase;
+    color: #ffffff;
+    transition: .3s;
+    @include gradient;
+    box-shadow: 0px 5px 5px rgba(0,0,0,0.1);
+
+    &:hover {
+    	opacity: .8;
+    	transition: .3s;
+    }
+}
+
+a.vc_general.vc_btn3.vc_btn3-size-md.vc_btn3-shape-round.vc_btn3-style-modern.vc_btn3-color-white {
+    padding: 8px 32px;
+}
+
+.vc_custom_1553785118758 {
+	box-shadow: 5px 0px 10px rgba(0,0,0,0.1);
+	border-radius: 10px;
+}
+
+
+
+.theme-main-header .button-group li a {
+    line-height: 36px;
+    font-weight: 500;
+    border: 2px solid transparent;
+    text-align: center;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 16px;
+    letter-spacing: 1px;
+    border-radius: 20px;
+    
+    padding-left: 8px;
+    padding-right: 8px;
+    position: relative;
+
+    &:after {
+		content:"";
+		position: absolute;
+		width: 0%;
+		height: 3px;
+		background: #ffffff;
+		transition: .3s ease-in-out;
+		left: 0px;
+		bottom: 0px;
+	}
+
+	&:hover {
+		color: $text;
+		
+		&:after {
+			width: 100%;
+			transition: .3s ease-in-out;
+		}
+	}
+}
+
+
+.theme-main-header .button-group li a:hover, 
+.theme-main-header .button-group li a.login:hover {
+    background: transparent;
+    border-color: transparent;
+    color: #ffffff;
+}
+
+.theme-main-header .button-group li.current_page_item a, 
+.theme-main-header .button-group li.btn-border a:hover, 
+.theme-main-header .button-group li.btn-border a:hover {
+    background: transparent;
+    border-color: transparent;
+    color: #ffffff;
+
+    &:after {
+		content:"";
+		position: absolute;
+		width: 100%;
+		height: 3px;
+		background: #ffffff;
+		transition: .3s ease-in-out;
+		left: 0px;
+		bottom: 0px;
+	}
+}
+
+
+

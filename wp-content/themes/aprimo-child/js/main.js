@@ -1,6 +1,9 @@
+var $ = require('jQuery');
+
+
 $(document).ready(function() {
 
-	$('#goto img').hover( function() {
+	$('.home_head a').hover( function() {
 
 		$('#goto').css({
 			'background':'red'

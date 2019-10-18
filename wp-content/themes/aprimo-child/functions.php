@@ -8,10 +8,9 @@ function enqueue_parent_styles() {
 }
 
 
-//add_action('wp_enqueue_scripts', 'theme_js');
-//
-//function theme_js() {
-//
-//	wp_enqueue_script( 'theme_js', get_stylesheet_directory_uri() . '/js/main.js', array( '' ), null , true );
-//}
+function theme_js() {
 
+	wp_enqueue_script( 'theme_js', get_template_directory_uri() . '/js/main.js', array('jquery'), '20151215', true );
+	
+}
+add_action( 'wp_enqueue_scripts', 'theme_js' );

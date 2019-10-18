@@ -31,6 +31,17 @@ $is_sticky_menu = function_exists('cs_get_option') ? cs_get_option('is_sticky_me
 
     <?php wp_head(); ?>
 
+    <!--script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script-->
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-137991238-1"></script>
+		<script>
+		  window.dataLayer = window.dataLayer || [];
+		  function gtag(){dataLayer.push(arguments);}
+		  gtag('js', new Date());
+
+		  gtag('config', 'UA-137991238-1');
+		</script>
     
 </head>
 
